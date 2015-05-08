@@ -1,0 +1,10 @@
+﻿Initial commit
+
+This is my initial commit in my repo.
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch rathis-landingpage-feature
+# Changes to be committed:
+#	new file:   readme.txt
+#
+
