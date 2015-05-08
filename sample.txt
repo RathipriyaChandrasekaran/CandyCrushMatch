@@ -1,1 +1,1 @@
-Hi this is a Github practice file.
+ This is a Github practice file.
